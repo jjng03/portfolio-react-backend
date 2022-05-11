@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1-BlackJack",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "https://github.com/jjng03/Project-1-Blackjack",
+      "image": "https://user-images.githubusercontent.com/101623317/162828648-7198fe31-25d6-44da-8b46-d0804f690769.png"
+    },
+    {
+      "name": "project2-Tweeter",
+      "live": "https://aqueous-sands-61175.herokuapp.com/login",
+      "git": "https://github.com/liam-mcaveney/Project-2",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
